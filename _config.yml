@@ -1,0 +1,17 @@
+# Setup
+title:            Beiming Li
+tagline:          'Personal Website'
+description:      'Beiming Li Personal Website'
+url:              https://beimingli0626.github.io
+baseurl:          ''
+paginate:         5
+
+# About and contact
+author:
+  name:           'Beiming Li'
+  url:            https://beimingli0626.github.io
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
