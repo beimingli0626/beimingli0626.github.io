@@ -6,7 +6,7 @@ subtitle: Graduate Student, University of Pennsylvania
 
 profile:
   align: right
-  image: mugshot.jpg
+  image: mugshot.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
