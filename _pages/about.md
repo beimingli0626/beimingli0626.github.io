@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<font size="4"> Hi! I’m Beiming! I am a graduate student majoring in Robotics at the GRASP Laboratory, University of Pennsylvania, advised by Prof. Vijay Kumar.</font>
+<font size="4"> Hi! I’m Beiming! I am a graduate student majoring in Robotics at the GRASP Laboratory, University of Pennsylvania, advised by Prof. Vijay Kumar and Dr. Pratik Chaudhari.</font>
 <br>
 My research interests center around artifical intelligence and robotics, with a specific focus on **multi-sensor fusion** for environmental mapping and efficient **autonomous exploration**. In the realm of multi-sensor fusion, my work involves integrating Polarization Camera and RGBD camera for semantic segmentation and depth reconstruction, which provide valuable semantic information that can guide and empower autonomous exploration. Before joining GRASP, I completed my undergraduate studies in Computer Engineering at the University of Michigan.
 
